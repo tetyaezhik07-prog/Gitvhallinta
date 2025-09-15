@@ -14,4 +14,8 @@ Kun valo vetäytyi taivaalle, se vei Lumihilkkasen mukanaan. Hän liukui revontu
 
 Siitä lähtien aina, kun revontulet syttyvät pohjoisen taivaalle, näkyy niiden seassa pieni, ketunmuotoinen hopeajälki. Se on Lumihilkanen, lumen ja valon suloa, joka yhä leikkii ja tanssii ikuisten ystäviensä, revontulten, kanssa. Ja jos onnekas matkaaja katsoo tarkkaan, voi nähdä, kuinka pieni valkoinen kettu hyppää iloissaan värien keskellä, täyttäen yön hiljaisuuden hiljaisella, onnellisella nauunalla.
 
+<<<<<<< Updated upstream
 Ja hänen jalkojensa jäljistä sataa alas Maahan pieniä, hohtavia, täysin uniikkeja lumihiutaleita.
+=======
+Ja hänen jalkojensa jäljistä sataa alas Maahan pieniä, hohtavia, täysin uniikkeja lumihiutaleita. (Created by ChatGPT)
+>>>>>>> Stashed changes
