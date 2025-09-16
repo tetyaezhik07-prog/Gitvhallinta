@@ -2,3 +2,4 @@ piimä
 omena
 leipä
 juusto
+banaanit
